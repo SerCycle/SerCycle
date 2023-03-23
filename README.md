@@ -15,8 +15,8 @@
 ## 🏆 Another Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sercycle&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Quote
-> You Only Live One, 
+<!-- ### ✍️ Random Quote
+> You Only Live One,  -->
 
 ### 😂 Fresh Meme
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F474x%2F5c%2F87%2F6a%2F5c876a581d636fd14bc63d63e50062e2.jpg&f=1&nofb=1&ipt=d98fe2052d3c4a17ad02d193971b661a4e223c7ea75a5415ac78a02ae6fd6a52&ipo=images" width="512px"/>
